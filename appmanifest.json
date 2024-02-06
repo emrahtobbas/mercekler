@@ -1,7 +1,7 @@
 {
-	"name": "mercekler",
-	"short_name": "mercekler",
-	"description": "",
+	"name": "MercdeklerdeİsiginKirilmasi",
+	"short_name": "MercdeklerdeİsiginKirilmasi",
+	"description": "Işığın kırılmasını, ince ve kalın kenarlı mercekler kullanarak deneyle gözlemler.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
